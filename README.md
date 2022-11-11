@@ -4,7 +4,7 @@ My name is Bo Jin ([Google Scholar](https://scholar.google.com/citations?user=JF
 
 I primarily research on the methodology of Operations Research.
 
-If you encounter bugs or have any questions, please open issues or contact me via email.
+If you encounter bugs or have any questions, please file new issues or contact me via email.
 
 *Suggestions and collaborations are welcome!*
 
