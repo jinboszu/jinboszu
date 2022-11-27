@@ -1,6 +1,6 @@
 ### 👋 Ni Hao!
 
-My name is Bo Jin ([Google Scholar](https://scholar.google.com/citations?user=JF2RAwMAAAAJ)) and I’m an Assistant Professor at [Shenzhen University](https://en.szu.edu.cn/).
+My name is Bo Jin ([Homepage](https://jinboszu.github.io), [Google Scholar](https://scholar.google.com/citations?user=JF2RAwMAAAAJ)) and I’m an Assistant Professor at [Shenzhen University](https://en.szu.edu.cn/).
 
 I primarily research on the methodology of Operations Research.
 
