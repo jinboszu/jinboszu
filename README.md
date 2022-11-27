@@ -1,6 +1,6 @@
 ### 👋 Ni Hao!
 
-My name is Bo Jin ([Homepage](https://jinboszu.github.io)) and I’m an Assistant Professor at Shenzhen University, China.
+My name is Bo Jin ([homepage](https://jinboszu.github.io)) and I’m an Assistant Professor at Shenzhen University, China.
 
 I primarily research on the methodology of Operations Research.
 
