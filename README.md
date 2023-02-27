@@ -10,7 +10,7 @@ If you encounter bugs or have any questions, please file new issues or contact m
 
 **Trivia:**
 
-- I used to participate in the 💭💡🎈 [International Collegiate Programming Contest](https://icpc.global/) (ICPC, formerly known as ACM-ICPC), and in the [2009 ACM-ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2009/standings), I was awarded a 🏅 Gold Medal, ranking 3rd overall.
+- I used to competed in the 💭💡🎈 [International Collegiate Programming Contest (ICPC)](https://icpc.global/), formerly known as ACM-ICPC. In the [2009 ACM-ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2009/standings), I was awarded a 🏅 Gold Medal with the 3rd place, which allowed me to advance to the 2010 ICPC World Finals.
 - I strongly advocate for the Oxford comma, the author–year citation style, and proper usage of hyphens and dashes.
 
 **Skills and Tools:**
