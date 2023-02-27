@@ -10,8 +10,8 @@ If you encounter bugs or have any questions, please file new issues or contact m
 
 **Trivia:**
 
-- I used to participate in the 💭💡🎈 [International Collegiate Programming Contest](https://icpc.global/) (ICPC, formerly known as ACM-ICPC), and won a 🏅 Gold Medal (ranked 3rd) in the [2009 ACM-ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2009/standings).
-- I support the Oxford comma and the author–year citation style.
+- I used to participate in the 💭💡🎈 [International Collegiate Programming Contest](https://icpc.global/) (ICPC, formerly known as ACM-ICPC), and in the [2009 ACM-ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2009/standings), I was awarded a 🏅 Gold Medal, ranking 3rd overall.
+- I strongly advocate for the Oxford comma, the author–year citation style, and proper usage of hyphens and dashes.
 
 **Skills and Tools:**
 
