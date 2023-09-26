@@ -15,8 +15,6 @@
 ⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ```
 
-****
-
 I'm Bo Jin, an Assistant Professor at the Department of Management, Shenzhen University, Shenzhen, China.
 
 I primarily research on the methodology of Operations Research.
