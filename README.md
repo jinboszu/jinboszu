@@ -32,3 +32,4 @@ If you encounter bugs or have any questions, please file new issues or contact m
 
 - [Google Scholar](https://scholar.google.com/citations?user=JF2RAwMAAAAJ)
 - [Academic Profile (in Chinese)](https://ma.szu.edu.cn/jsfc/jinbo.htm)
+- [O.R. Pie (in Chinese)](https://or-pie.com)
