@@ -32,4 +32,3 @@ If you encounter bugs or have any questions, please file new issues or contact m
 
 - <img src="https://scholar.google.com/favicon.ico" width="16px"> [Google Scholar](https://scholar.google.com/citations?user=JF2RAwMAAAAJ)
 - <img src="https://ma.szu.edu.cn/favicon.ico" width="16px"> [教师介绍](https://ma.szu.edu.cn/jsfc/jinbo.htm)
-- <img src="https://or-pie.com/favicon.ico" width="16px"> [运筹派](https://or-pie.com)
