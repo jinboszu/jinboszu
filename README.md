@@ -26,7 +26,7 @@ If you encounter bugs or have any questions, please feel free to contact me via 
 
 **Trivia:**
 
-- I used to compete in the 💭💡🎈 [International Collegiate Programming Contest (ICPC)](https://icpc.global/), formerly known as ACM-ICPC. In the [34th ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2010/standings), I won a 🏅 Gold Medal with a third-place ranking, advancing to the [34th ICPC World Finals](https://icpc.global/community/results-2010).
+- I used to compete in the 💭💡🎈 [International Collegiate Programming Contest (ICPC)](https://icpc.global), formerly known as ACM-ICPC. In the [34th ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2010/standings), I won a 🏅 Gold Medal with a third-place ranking, advancing to the [34th ICPC World Finals](https://icpc.global/community/results-2010).
 
 **Links:**
 
