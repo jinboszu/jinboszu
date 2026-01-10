@@ -18,9 +18,9 @@
 
 My name is Bo Jin, and I am an Associate Professor at the College of Management, Shenzhen University, Shenzhen, China.
 
-My research focuses on mathematical programming and optimization algorithms, with applications to practical decision-making challenges in production, manufacturing, transportation, and logistics.
+My research focuses on mathematical programming and optimization algorithms, with applications to practical decision-making problems in production, manufacturing, transportation, and logistics.
 
-If you encounter bugs or have any questions, please file new issues or contact me via email.
+If you encounter bugs or have any questions, please feel free to contact me via email.
 
 *Suggestions and collaborations are welcome!*
 
