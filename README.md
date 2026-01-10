@@ -16,9 +16,9 @@
 ⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ```
 
-My name is **Bo Jin**, and I am an **Associate Professor** at the **College of Management, Shenzhen University**, Shenzhen, China.
+My name is *Bo Jin*, and I am an *Associate Professor* at the *College of Management, Shenzhen University*, Shenzhen, China.
 
-My research interests include **mathematical programming and optimization algorithms**, with a particular emphasis on their applications to real-world decision-making problems in **production, manufacturing, transportation, and logistics**.
+My research interests include *mathematical programming and optimization algorithms*, with a particular emphasis on their applications to real-world decision-making problems in *production, manufacturing, transportation, and logistics*.
 
 If you encounter any bugs or have questions about my work, feel free to reach out via email.  
 
