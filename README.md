@@ -16,17 +16,17 @@
 ⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ```
 
-My name is Bo Jin, and I am an Associate Professor at the College of Management, Shenzhen University, Shenzhen, China.
+My name is **Bo Jin**, and I am an **Associate Professor** at the **College of Management, Shenzhen University**, Shenzhen, China.
 
-My research focuses on mathematical programming and optimization algorithms, with applications to practical decision-making problems in production, manufacturing, transportation, and logistics.
+My research interests include **mathematical programming and optimization algorithms**, with a particular emphasis on their applications to real-world decision-making problems in **production, manufacturing, transportation, and logistics**.
 
-If you encounter bugs or have any questions, please feel free to contact me via email.
+If you encounter any bugs or have questions about my work, feel free to reach out via email.  
 
-*Suggestions and collaborations are welcome!*
+*Suggestions and collaborations are always welcome!*
 
 **Trivia:**
 
-- I used to compete in the 💭💡🎈 [International Collegiate Programming Contest (ICPC)](https://icpc.global), formerly known as ACM-ICPC. In the [34th ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2010/standings), I won a 🏅 Gold Medal with a third-place ranking, advancing to the [34th ICPC World Finals](https://icpc.global/community/results-2010).
+- I previously competed in the 💭💡🎈 [International Collegiate Programming Contest (ICPC)](https://icpc.global), formerly known as ACM-ICPC. In the [34th ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2010/standings), our team earned a 🏅 **Gold Medal** with a **third-place finish**, qualifying for the [34th ICPC World Finals](https://icpc.global/community/results-2010).
 
 **Links:**
 
