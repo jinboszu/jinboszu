@@ -29,7 +29,7 @@ If you encounter any bugs or have questions about my work, please feel free to r
 
 ### 🎯 Trivia
 
-I previously competed in the [International Collegiate Programming Contest (ICPC)](https://icpc.global), which was formerly known as ACM-ICPC. In the [34th ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2010), our team won a **Gold Medal** with a **third-place finish** ([🔗 standings](https://icpc.global/regionals/finder/Harbin-2010/standings)), qualifying for the [World Finals](https://icpc.global/regionals/finder/world-finals-2010) ([🔗 results](https://icpc.global/community/results-2010)).
+I previously competed in the [International Collegiate Programming Contest (ICPC)](https://icpc.global), which was formerly known as ACM-ICPC. In the [34th ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2010), our team won a **Gold Medal** with a **third-place finish** (🔗 [standings](https://icpc.global/regionals/finder/Harbin-2010/standings)), qualifying for the [World Finals](https://icpc.global/regionals/finder/world-finals-2010) (🔗 [results](https://icpc.global/community/results-2010)).
 
 ### 📑 Publications
 
