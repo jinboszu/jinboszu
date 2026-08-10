@@ -1,14 +1,42 @@
-### Ni Hao! 👋
+### 👋 Ni Hao!
 
-My name is Bo Jin ([Google Scholar](https://scholar.google.com/citations?user=JF2RAwMAAAAJ)) and I’m a faculty at [Shenzhen University](https://en.szu.edu.cn/).
+```
+           ⠀⠀⢀⣤⣴⣾⣿⣦⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⡿⣿⣿⣿⣿⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⠉⠀⠀⠀⢿⢿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡷⡶⢢⠐⣲⠕⠀⣿⠇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠀⢸⣀⡀⠀⠀⡫
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡀⠰⠖⠀⠀⣠
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠲⠶⠴⠛⠍⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⠋⢢⡀⠐⠀⣰⣿⣦⣤⣀
+⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡄⠻⠛⠢⣰⣿⣿⣿⣿⣿⣿⣶⣤⡀
+⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⠈⡆⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇
+⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⡄⡇⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣧⡐⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄
+⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡇⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+```
 
-I primarily research on the methodology of Operations Research.
+### 👨‍🏫 About Me
 
-If you encounter bugs or have any questions, please open issues or contact me via email.
+My name is **Bo Jin**.
 
-**Suggestions and collaborations are welcome!**
+I received the **B.Eng. degree** in **Computer Science and Technology** from **Zhejiang University of Technology** in 2010, and the **Ph.D. degree** in **Management Sciences** from **City University of Hong Kong** in 2015.
 
-Trivia:
-- [💭💡🎈] I used to participate in the [International Collegiate Programming Contest](https://icpc.global/) (ICPC, formerly known as ACM-ICPC), and won a Gold Medal (ranking 3rd) in the [2009 ACM-ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2009/standings).
+I am currently an **Associate Professor** at the **College of Management, Shenzhen University, Shenzhen, China**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinboszu&layout=compact)
+My research interests include **mathematical programming** and **optimization algorithms**, with applications in **production**, **manufacturing**, **transportation**, and **logistics**.
+
+### ✨ Trivia
+
+I primarily program in **C**, **C++**, **Java**, and **Python**, and I am always open to learning and using new languages.
+
+I previously competed in the [International Collegiate Programming Contest (ICPC)](https://icpc.global). In the [34th ICPC Asia Harbin Regional Contest](https://icpc.global/regionals/finder/Harbin-2010), our team won a [Gold Medal](https://icpc.global/regionals/finder/Harbin-2010/standings), which qualified us for the [34th ICPC World Finals](https://icpc.global/regionals/finder/world-finals-2010).
+
+I am a passionate **LaTeX** user with a strong interest in typography and typesetting. My daily workflow relies on **Visual Studio Code**, **TeX Live**, and **Sumatra PDF**.
+
+I teach two undergraduate courses, **Python Programming** and **Data Structures and Algorithms**, and one graduate course, **Mathematical Optimization**.
+
+### 📑 Publications
+
+- [Google Scholar](https://scholar.google.com/citations?user=JF2RAwMAAAAJ)
